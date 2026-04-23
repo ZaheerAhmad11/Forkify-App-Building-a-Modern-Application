@@ -1,0 +1,27 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZaheerAhmad11/Forkify-App-Building-a-Modern-Application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZaheerAhmad11/Forkify-App-Building-a-Modern-Application/issues"
+  },
+  "homepage": "https://github.com/ZaheerAhmad11/Forkify-App-Building-a-Modern-Application#readme",
+  "dependencies": {
+    "core-js": "^3.49.0",
+    "parcel": "^2.16.4",
+    "regenerator-runtime": "^0.14.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.16.4"
+  }
+}

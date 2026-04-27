@@ -3,30 +3,69 @@ import icons from 'url:../../img/icons.svg';
 class RecipeView {
   #parenElement = document.querySelector('.recipe');
   #data;
+  #errormessage = `We could not find that recipe.Please try another one!`;
+  #message = '';
+
+
   //   #clear ;
   render(data) {
     this.#data = data;
     const markup = this.#generateMarkup();
     this.#clear();
     this.#parenElement.insertAdjacentHTML('afterbegin', markup);
-    console.log(this.#data);
+    console.log(this.#data)
   }
 
   #clear() {
     this.#parenElement.innerHTML = '';
   }
 
-  renderSpinner = function () {
+  renderSpinner () {
     const markup = `
     <div class="spinner">
       <svg>
       <use href="${icons}#icon-loader"></use>
-      </div>
-    </svg>
+      </svg>
+    </div>
   `;
-    this.#parenElement.innerHTML = '';
-    this.#parenElement.insertAdjacentHTML('afterbegin', markup);
-  };
+  // this.#parenElement.innerHTML = '';
+  this.#clear();
+  this.#parenElement.insertAdjacentHTML('afterbegin',markup);
+}
+
+  renderError (message = this.#errormessage) {
+    const markup = `
+    <div class="error">
+      <div>
+        <svg>
+        <use href="${icons}#icon-alert-triangle"</use>
+        </svg>
+        </div>
+        <p>${message}</p>
+    </div>
+  `;
+  this.#clear();
+  this.#parenElement.insertAdjacentHTML('afterbegin',markup);
+  }
+  
+  renderMessage (message = this.#message) {
+    const markup = `
+    <div class="message">
+      <div>
+        <svg>
+        <use href="${icons}#icon.svg#icon-smile"</use>
+        </svg>
+        </div>
+        <p>${message}</p>
+    </div>
+  `;
+  this.#clear();
+  this.#parenElement.insertAdjacentHTML('afterbegin',markup);
+  }
+
+  addHandlerRender(handler) {
+    ['hashchange','load'].forEach(ev => window.addEventListener(ev, handler))
+  }
 
   #generateMarkup() {
     return `
@@ -122,4 +161,5 @@ class RecipeView {
             `;
   }
 }
+
 export default new RecipeView();

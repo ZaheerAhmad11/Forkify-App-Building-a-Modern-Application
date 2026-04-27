@@ -1,4 +1,4 @@
-8126
+8102
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\offscreencanvas.js134213224000557090 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\array\for-each.js134213430505727501 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\reflect\delete-property.js134213430481476059 0
@@ -8,7 +8,7 @@
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.typed-array.to-string.js134213430491681580 0
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\cjs\_iterable_to_array_limit_loose.cjs134213223995692611 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\intl-pluralrules.js134213223998851330 0
-97D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist134214902869774760 1
+97D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist134217491001017070 1
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\semver\bin\semver.js134213223989912394 0
 122D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr\pack.js134213223988224197 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\opus.js134213224000676130 0
@@ -33,7 +33,7 @@
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\url.js134213430563723720 0
 115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@mischnic134213223975748028 1
 121D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\forkify-flowchart-part-1.png134213155308112913 0
-105D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\package.json134214299082595018 0
+105D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\package.json134214908518678103 0
 174D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ordered-binary\.nyc_output\5b6bd808-0399-4ee6-9395-344688761dfa.json134213223985872282 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-typed-array\.github\FUNDING.yml134214237059568568 0
 159D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\cjs\_class_private_field_destructure.cjs134213223995000555 0
@@ -59,16 +59,16 @@
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\iterator\every.js134213430498446833 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.data-view.get-float16.js134213430493399542 0
 112D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\img\favicon.png134213156650512703 0
-113D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel134214305963623728 1
+113D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel134214908518446188 1
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\iterator\index.js134213430519648838 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\set-function-length\index.d.ts134214237059420056 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_interop_require_wildcard.js134213223997187584 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_interop_require_wildcard.mjs134213223998521468 0
 103D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\index.html134214030415252468 0
 114D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr134213223990827639 1
-124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\.package-lock.json134214305966002144 0
+124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\.package-lock.json134214908519451975 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\node_modules\node-addon-api\tools134213223988565452 1
-105D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules134214305963566803 1
+105D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules134214908518626999 1
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-object-atoms\LICENSE134214237058406995 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\instance\code-point-at.js134213430477085397 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\test\Parcel.test.js134213223993223006 0
@@ -79,15 +79,15 @@
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\date-to-primitive.js134213430480386523 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\slice.js134213430546110382 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\filter-reject.js134213430499657737 0
-110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\package-lock.json134214305965333463 0
+110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\package-lock.json134214908519239637 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\unescape.js134213430562775921 0
 120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\parcel\LICENSE134213223983706192 0
-144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.to-spliced.js134213430485176189 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\dommatrix.js134213223996923035 0
-96D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src134213158248052531 1
+96D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src134214912786545418 1
+144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.to-spliced.js134213430485176189 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-callable\CHANGELOG.md134214237059118642 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\dunder-proto\set.js134214237058961813 0
-113D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\controller.js134214250081290155 0
+113D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\controller.js134217484996234143 0
 100D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\img134213158599248651 1
 167D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc134213223983976962 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\commander\lib\argument.js134213223984119065 0
@@ -100,7 +100,7 @@
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\array\copy-within.js134213430479740043 0
 115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\sass\_preview.scss134213161719713565 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\node-addon-api\noexcept.gypi134213223985273263 0
-99D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js134214054581441566 1
+99D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js134215075778605189 1
 167D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\cross-document-view-transitions.js134213223993541246 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\sass\types\legacy\exception.d.ts134213227302585227 0
 101D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\sass134213160511889744 1
@@ -113,7 +113,7 @@
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ordered-binary\.idea\ordered-binary.iml134213223984505003 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\sass\types\util\promise_or.d.ts134213227302823309 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-tostringtag\package.json134214237059420056 0
-119D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\views\recipeView.js134214902866873535 0
+119D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\views\recipeView.js134217491320170967 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\bigint134213430537879519 1
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\array\virtual\find-last-index.js134213430501353784 0
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\dotenv\lib\main.d.ts134213223987295313 0
@@ -154,25 +154,14 @@
 161D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\fix-regexp-well-known-symbol-logic.js134213430503183207 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features134213224003964450 1
 114D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\sass\_upload.scss134213162892806384 0
-123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@msgpackr-extract134214305963623728 1
-108D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\model.js134214250345297002 0
-105D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\views134214054836213118 1
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\source-map\dist\utils.js134213223987998461 0
-150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-namespaces.js134213223995366615 0
-125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\.github134214237059691202 1
-130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\asinh.js134213430472518660 0
-132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\term-size\vendor\.DS_Store134213223983716169 0
-149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\watcher\src\kqueue\KqueueBackend.cc134213223987416887 0
-131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\types\assumptions.js134213223983976962 0
-134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\which-typed-array\index.d.ts134214237059545085 0
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\pad-end.js134213430535683361 0
-110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\img\icons.svg134213156797979561 0
-139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\instance\to-spliced.js134213430558806562 0
-140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\group-by.js134213430512209085 0
-109D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\img\logo.png134213156888510902 0
-127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\safe-buffer\README.md134213223984765032 0
-140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\colr.js134213223993223006 0
-126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\term-size\index.d.ts134213223986533584 0
+123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@msgpackr-extract134214908518446188 1
+137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\bundler-default\LICENSE134213223983686373 0
+156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-element-function.js134213223994341288 0
+139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\symbol\has-instance.js134213430513102559 0
+131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\lib\util.js134213227291129560 0
+151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\math-intrinsics\constants\maxArrayLength.d.ts134214237059845708 0
+128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\types-internal134213223987829526 1
+109D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\config.js134215142234553886 0
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_dump.c134213223990204647 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\small.js134213430546865066 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\object\define-properties.js134213430480748080 0
@@ -191,6 +180,29 @@
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\instance\unshift.js134213430563408163 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\instance\find.js134213430502920998 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\update-browserslist-db\cli.js134213223984261642 0
+124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\uri.d.ts134214237059744441 0
+110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\helpers.js134215142393879322 0
+150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\starts-with.js134213430550350850 0
+137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\weak-map\of.js134213430533729286 0
+127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\LICENSE134213227290991559 0
+108D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\model.js134217462204008198 0
+105D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\js\views134215075778605189 1
+138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\source-map\dist\utils.js134213223987998461 0
+150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-namespaces.js134213223995366615 0
+125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\.github134214237059691202 1
+130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\asinh.js134213430472518660 0
+132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\term-size\vendor\.DS_Store134213223983716169 0
+149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\watcher\src\kqueue\KqueueBackend.cc134213223987416887 0
+131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\types\assumptions.js134213223983976962 0
+134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\which-typed-array\index.d.ts134214237059545085 0
+138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\pad-end.js134213430535683361 0
+110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\img\icons.svg134213156797979561 0
+139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\instance\to-spliced.js134213430558806562 0
+140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\group-by.js134213430512209085 0
+109D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\src\img\logo.png134213156888510902 0
+127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\safe-buffer\README.md134213223984765032 0
+140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\colr.js134213223993223006 0
+126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\term-size\index.d.ts134213223986533584 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\sass\types\value\color.d.ts134213227302494693 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\cache\lib\FSCache.js134213223984077244 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\src\UncommittedAsset.js134213223994880176 0
@@ -202,8 +214,8 @@
 113D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js134213430565928479 1
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\sass\types\deprecations.d.ts134213227302528774 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\internal-state.js134213430520803638 0
-110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc134214305963574795 1
-111D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@lmdb134214305963623728 1
+110D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc134214908518446188 1
+111D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@lmdb134214908518446188 1
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\at.js134213430474164584 0
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\LICENSE134213223986520997 0
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\test134213223990415495 1
@@ -335,14 +347,6 @@
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\picocolors\picocolors.js134213223984261642 0
 114D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\for-each134214237059545085 1
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\array\virtual\entries.js134213430483510856 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\async-iterator\flat-map.js134213430503765675 0
-132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\math-intrinsics\isNaN.d.ts134214237059795463 0
-124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\tslib\tslib.es6.js134213223984868943 0
-140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\some.js134213430547993579 0
-166D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node134213223993151327 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\input-color.js134213223998571593 0
-117D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js134214299082474507 1
-146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.set.difference.js134213430496072073 0
 119D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\function-bind134214237059430134 1
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.string.replace-all.js134213430490043595 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\function-bind\test\.eslintrc134214237058444033 0
@@ -358,9 +362,8 @@
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\subarray.js134213430552132399 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\virtual\italics.js134213430524475730 0
 121D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\safe-regex-test134214237059342319 1
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\egyptian.js134214299082193233 0
-153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lightningcss\node_modules\detect-libc\README.md134213223985818178 0
 119D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-intrinsic134214237059249225 1
+153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lightningcss\node_modules\detect-libc\README.md134213223985818178 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\object134213430564119539 1
 115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto134214237059639607 1
 155D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.async-iterator.flat-map.js134213430493123243 0
@@ -420,8 +423,6 @@
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\environment-is-ios-pebble.js134213430483746785 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-tostringtag\LICENSE134214237058512726 0
 116D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-extglob134213223984568478 1
-154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-module-scripts.js134213223995295118 0
-127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\README.md134214299082391036 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\symbol\has-instance.js134213430513249355 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\weak-set\index.js134213430517301822 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\util-deprecate\browser.js134214237119346860 0
@@ -490,12 +491,11 @@
 120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ordered-binary134213223987423875 1
 161D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\midl.h134213223993510637 0
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\reflect\get-own-property-descriptor.js134213430510562247 0
-122D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\dist134214299082391036 1
+173D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json134213223990521368 0
+125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\.eslintrc134214237058269497 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\type-fest\ts41\snake-case.d.ts134213223989633946 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-has.js134213223994890175 0
 122D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\globals\index.js134213223983976962 0
-173D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_class_static_private_field_destructure\package.json134213223990521368 0
-125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\.eslintrc134214237058269497 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_decorate134213223990997602 1
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\font-smooth.js134213223997698619 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\sort.js134213430548632925 0
@@ -589,8 +589,8 @@
 120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\string_decoder134214237119346860 1
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\regexp\index.js134213430518012451 0
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_check_private_redeclaration\package.json134213223988856539 0
-146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\index.js134213430517417143 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\tslib\modules\index.js134213223984364052 0
+146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\index.js134213430517417143 0
 120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\supports-color134213223984919488 1
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_create_for_of_iterator_helper_loose.js134213223996913063 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\stream-browserify\index.js134214237120658717 0
@@ -918,6 +918,7 @@
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\watcher\src134213223989685482 1
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\set\from.js134213430507944242 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb134213223994637338 1
+149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.data-view.set-float16.js134213430485423289 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\update-browserslist-db\index.d.ts134213223986025806 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\to-indexed-object.js134213430555997090 0
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\call-bound\.eslintrc134214237058269497 0
@@ -1012,6 +1013,7 @@
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js134213223988234279 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\detect-libc\README.md134213223984312524 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\lib\mapping-list.js134213227291079159 0
+141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.get-year.js134213430485457447 0
 118D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\gopd\gOPD.js134214237058512726 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\type-fest\source\entry.d.ts134213223987470654 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\dotenv\README-es.md134213223986314302 0
@@ -1125,6 +1127,9 @@
 122D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\tslib\tslib.d.ts134213223987239561 0
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\tslib\tslib.es6.html134213223983606157 0
 163D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\node-gyp-build-optional-packages\node_modules\detect-libc134213223986083593 1
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\async-iterator\flat-map.js134213430503765675 0
+132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\math-intrinsics\isNaN.d.ts134214237059795463 0
+124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\tslib\tslib.es6.js134213223984868943 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\number\to-exponential.js134213430554820728 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-flag\index.d.ts134213223983976962 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\tslib\tslib.es6.mjs134213223986623524 0
@@ -1164,6 +1169,8 @@
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\stream-browserify\CHANGELOG.md134214237120815524 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\shams.d.ts134214237059651810 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.object.seal.js134213430487598498 0
+130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\string\raw.js134213430538213993 0
+150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array-buffer\constructor.js134213430478871338 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\term-size\vendor\macos134213223984765032 1
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\term-size\vendor\windows134213223985333266 1
 167D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-react-refresh-wrap\lib\helpers\helpers.js134213223984149264 0
@@ -1216,8 +1223,8 @@
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\fontcolor.js134213430505379131 0
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\node_modules134213223975828405 1
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\packager-css134213223984868943 1
-149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\for-each.js134213430506067837 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\stream-browserify\test134214237120764600 1
+149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\for-each.js134213430506067837 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\virtual\find-index.js134213430501232913 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.set.every.js134213430496109758 0
 150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\virtual\trim-left.js134213430560846589 0
@@ -1248,9 +1255,6 @@
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\bold.js134213430475624848 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\regexp\search.js134213430542799605 0
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\lib134213227291184513 1
-150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\starts-with.js134213430550350850 0
-137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\weak-map\of.js134213430533729286 0
-127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\LICENSE134213227290991559 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\promise\all-settled.js134213430470599163 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\object-assign.js134213430532711218 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\zip-keyed.js134213430565798410 0
@@ -1285,11 +1289,6 @@
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr\node-index.js134213223988072534 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\lib\public134213223994392412 1
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\lib\source-node.js134213227291129560 0
-137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\bundler-default\LICENSE134213223983686373 0
-156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-element-function.js134213223994341288 0
-139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\symbol\has-instance.js134213430513102559 0
-131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\source-map-js\lib\util.js134213227291129560 0
-151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\math-intrinsics\constants\maxArrayLength.d.ts134214237059845708 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\packager-svg\package.json134213223984868943 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\set-function-length\.eslintrc134214237058269497 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\symbol\is-concat-spreadable.js134213430521253588 0
@@ -1379,8 +1378,6 @@
 119D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\semver\ranges134213223990255847 1
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\iterator134213430565808821 1
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\semver\ranges\intersects.js134213223988302252 0
-144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\lookup-setter.js134213430528864669 0
-136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\angles.js134214299082176727 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\sass\sass.default.cjs134213227296748288 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\symbol\description.js134213430481768968 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-matches-pseudo.js134213223995128072 0
@@ -1431,7 +1428,6 @@
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\semver\internal\parse-options.js134213223989378211 0
 156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\alternate-stylesheet.js134213223988896540 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\reverse.js134213430541988918 0
-126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples134214299082342070 1
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\sass\types\logger\index.d.ts134213227302681232 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lz4\LICENSE134213223987490745 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.weak-set.from.js134213430497754859 0
@@ -1645,7 +1641,6 @@
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\profiler\LICENSE134213223983656171 0
 166D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\keyboardevent-getmodifierstate.js134213223999204842 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\readable-stream\package.json134214237119703216 0
-121D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\src134214299082242856 1
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\readable-stream\readable-browser.js134214237119595298 0
 163D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.weak-map.get-or-insert-computed.js134213430497616988 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\websockets.js134213224003691884 0
@@ -1857,8 +1852,8 @@
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\node-addon-api\tools\README.md134213223988695600 0
 120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\immutable\dist134213227292757412 1
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ordered-binary\assets134213223987254513 1
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\data-view\set-float16.js134213430543477045 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\instance\group.js134213430512973562 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\data-view\set-float16.js134213430543477045 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\dispatchevent.js134213223996585124 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\log1p.js134213430528519597 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\promise134213430565238557 1
@@ -1876,6 +1871,9 @@
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\reflect\has.js134213430513679208 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\dunder-proto\test\set.js134214237059057034 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-property-descriptors\CHANGELOG.md134214237058927723 0
+127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\rust\index.js134213223985343389 0
+143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\reflect\define-property.js134213430480880177 0
+139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.error.cause.js134213430485668905 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.1fe186ad.js134214304016627656 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-font-stretch.js134213223994737914 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ordered-binary\index.js134213223984815884 0
@@ -1893,6 +1891,7 @@
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\is-symbol.js134213430523487752 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\details.js134213223996469128 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.iterator.map.js134213430486039065 0
+149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.data-view.constructor.js134213430485348795 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\virtual\iterator.js134213430525631546 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ordered-binary\assets\powers-dre.png134213223987356139 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\async-iterator\every.js134213430498250822 0
@@ -1970,8 +1969,8 @@
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\graph\LICENSE134213223983656171 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.array.group-by.js134213430492647828 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\orientation-sensor.js134213224000686706 0
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\bigint\index.js134213430517456017 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\instance\to-spliced.js134213430558856921 0
+138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\bigint\index.js134213430517456017 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\profiler\lib\index.d.ts134213223987592821 0
 165D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array-buffer.transfer-to-fixed-length.js134213430484332977 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\packager-css\lib134213223984027128 1
@@ -2102,7 +2101,7 @@
 178D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test134213224004307907 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\define-setter.js134213430481051072 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\trim-start.js134213430561545304 0
-115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\logo.726d37a8.png134214902858930460 0
+115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\logo.726d37a8.png134217491000552651 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\sinh.js134213430545837030 0
 177D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages.ps1134213224004260726 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\console-basic.js134213223993315693 0
@@ -2126,13 +2125,9 @@
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\typed-array\keys.js134213430527268103 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr\pack.d.cts134213223986426429 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lightningcss-win32-x64-msvc\LICENSE134213223983606157 0
-142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\mathml.js134213223999762526 0
-133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\src\fraction.js134214299082242856 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\math-intrinsics\floor.js134214237058615509 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\number\virtual134213430557351927 1
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\symbol\observable.js134213430533399457 0
-170D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js134213223996520204 0
-139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\integrate.js134214299082318000 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_set_prototype_of.mjs134213223998690679 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\README.md134214237059430134 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr\package.json134213223989263547 0
@@ -2192,7 +2187,7 @@
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr\dist\node.cjs.map134213223990363125 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\url-constructor-detection.js134213430563673437 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\unescape.js134213430562828634 0
-156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.f7626f62.css.map134214902860207334 0
+156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.f7626f62.css.map134217491000603010 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\msgpackr\dist\test.js134213223989002855 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.map.delete-all.js134213430494452356 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\plugin\lib\PluginAPI.js134213223984077244 0
@@ -2218,8 +2213,6 @@
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\replace-all.js134213430540734455 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\find-last.js134213430502295839 0
 115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dist134213223994103543 1
-130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\package.json134214299082391036 0
-139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\anchor.js134213430470841256 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\bold.js134213430475747052 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\math-intrinsics\isNegativeZero.d.ts134214237059829583 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\browserslist\README.md134213223986426429 0
@@ -2372,6 +2365,7 @@
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\lib\Dependency.js134213223990762192 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lz4\lib\Makefile134213223988181822 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\node_modules\node-addon-api\napi.h134213223987254513 0
+145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\some.js134213430547414591 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\rellist.js134213224001412870 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.species.js134213430485085098 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\object\values.js134213430564338063 0
@@ -2515,7 +2509,6 @@
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\eval.js134214237058512726 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\map\get-or-insert.js134213430510098413 0
 158D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_enc.c134213223990997602 0
-142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\tape-measure.js134214299082342070 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\keys.js134213430527434053 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\define-properties.js134213430480727986 0
 160D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c134213223991027174 0
@@ -2536,6 +2529,8 @@
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lmdb\bin\download-prebuilds.js134213223993752770 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\set-union.js134213430544996144 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\date134213430559590967 1
+140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\some.js134213430547993579 0
+166D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node134213223993151327 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\join.js134213430526554633 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\lightningcss-win32-x64-msvc\package.json134213223983976962 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\typed-array\for-each.js134213430506179921 0
@@ -2622,6 +2617,7 @@
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\test\fixtures\context\package.json134213223995234129 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-regex\CHANGELOG.md134214237059215085 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\reflect\define-property.js134213430480919593 0
+145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\drop.js134213430482608244 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\substr.js134213430552222746 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-regex\index.d.ts134214237059430134 0
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-regex\index.js134214237058719442 0
@@ -2638,6 +2634,7 @@
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-glob\package.json134213223984312524 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\array\virtual\push.js134213430537375735 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-generator-function\.eslintrc134214237058269497 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array-buffer\detached.js134213430481933230 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-generator-function\.nvmrc134214237058427072 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\is-callable\test\index.js134214237058896940 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\regions\BI.js134213223990950517 0
@@ -2691,8 +2688,8 @@
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.iterator.concat.js134213430485829461 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\error\constructor.js134213430478982508 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-containment.js134213223994138719 0
-120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\hasown\.github134214237059249225 1
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.data-view.get-float16.js134213430485373157 0
+120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\hasown\.github134214237059249225 1
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.typed-array.some.js134213430491558597 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_apply_decorated_descriptor.mjs134213223997872547 0
 119D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\hasown\.nycrc134214237058269497 0
@@ -2768,12 +2765,11 @@
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\reporter-tracer\lib\TracerReporter.js134213223984129146 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\test\tests.js134214237059271170 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\test\shams\core-js.js134214237058679902 0
-150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_read_only_error\package.json134213223993341362 0
-150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\es6-generators.js134213223997187584 0
-142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\rational-pow.js134214299082342070 0
-156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\test\shams\get-own-property-symbols.js134214237058800922 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\runtime-js\lib\JSRuntime.js134213223989062852 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\generator-function\legacy.js134214237058769967 0
+150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_read_only_error\package.json134213223993341362 0
+150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\es6-generators.js134213223997187584 0
+156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\test\shams\get-own-property-symbols.js134214237058800922 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\has-symbols\.github\FUNDING.yml134214237059709091 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\concat.js134213430477895391 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\big.js134213430474859119 0
@@ -2843,8 +2839,6 @@
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\package.json134214237059057034 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\Reflect.getPrototypeOf.d.ts134214237059628808 0
 120D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\test134214237058745132 1
-164D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json134213223993541246 0
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\dist\fraction.min.js134214299082258402 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-proto\test\index.js134214237058769967 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\src\public\Environment.js134213223991284248 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\from-async.js134213430507025761 0
@@ -2857,8 +2851,8 @@
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\src\index.js134213223988585444 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_extends\package.json134213223991233799 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\regions\IM.js134213223998468665 0
-124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-port\readme.md134213223985061307 0
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.async-disposable-stack.constructor.js134213430485295489 0
+124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-port\readme.md134213223985061307 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\get-intrinsic\.github134214237059324928 1
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\instance134213430565668058 1
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-raw\src\RawTransformer.js134213223984536099 0
@@ -2922,43 +2916,6 @@
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\regions\PE.js134213224000800420 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\.github\FUNDING.yml134214237059757250 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\function-bind\.github\SECURITY.md134214237059545085 0
-135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\Handle.js134213223988224197 0
-130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\CHANGELOG.md134214299082391036 0
-145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\full-versions.json134213223986859601 0
-131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\optimizer-swc\lib134213223984027128 1
-126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\core\Visitor.js134213223984723814 0
-132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\fraction.d.mts134214299082452667 0
-144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\iterator.js134213430525385735 0
-131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\fraction.d.ts134214299082474507 0
-137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\map\emplace.js134213430482735215 0
-156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers134213223986005081 1
-141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\reverse.js134213430541908080 0
-125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\LICENSE134214299082144209 0
-137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\reflect\apply.js134213430471297723 0
-143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\iterator\for-each.js134213430506140390 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\number\virtual\to-fixed.js134213430555140156 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\iterator.js134213430525309495 0
-123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\tests134214299082275532 1
-140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\tests\fraction.test.js134214299082275532 0
-136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\approx.js134214299082193233 0
-135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\some.js134213430547704180 0
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_instanceof.mjs134213223998468665 0
-143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\link.js134213430528333153 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\hesse-convergence.js134214299082304221 0
-142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\virtual\small.js134213430546916658 0
-141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\ratio-chain.js134214299082322514 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\set-prototype-of.js134213430544418965 0
-137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\map-upsert.js134213430529189184 0
-135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\trim.js134213430561847213 0
-140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\toFraction.js134214299082342070 0
-129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\call-bound\CHANGELOG.md134214237059069231 0
-136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\every.js134213430498275815 0
-139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\examples\valueOfPi.js134214299082342070 0
-159D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js134213223994869734 0
-134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\dist\fraction.js134214299082223762 0
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\get-iterator.js134213430509520746 0
-143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\full-versions.js134213223985104450 0
-135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\fraction.js\dist\fraction.mjs134214299082452667 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\for-each\.editorconfig134214237058269497 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\call-bind-apply-helpers\functionApply.d.ts134214237059709091 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\date\index.js134213430516689713 0
@@ -3059,7 +3016,6 @@
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\get-own-property-names.js134213430510699233 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\type.d.ts134214237059744441 0
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\type.js134214237059198472 0
-124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\uri.d.ts134214237059744441 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\chacha20-poly1305.js134213223992797063 0
 122D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\es-errors\uri.js134214237059271170 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\get-built-in-node-module.js134213430509001593 0
@@ -3088,6 +3044,8 @@
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\test\fixtures\invalid-distpath\package.json134213223995426034 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\chromium-versions.json134213223986098793 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\full-chromium-versions.json134213223986457035 0
+143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\full-versions.js134213223985104450 0
+145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\full-versions.json134213223986859601 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\index.js134213223985508417 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\electron-to-chromium\LICENSE134213223983606157 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.typed-array.to-sorted.js134213430491611651 0
@@ -3214,6 +3172,8 @@
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\bold.js134213430475777398 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stage\index.js134213430520188512 0
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array134213430565657888 1
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\to-reversed.js134213430557940545 0
+145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\from.js134213430507854962 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\typed-array\entries.js134213430483311901 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\async-disposable-stack134213430519394267 1
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\number\virtual134213430557296315 1
@@ -3320,6 +3280,7 @@
 124D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\chalk\package.json134213223985263285 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\keys.js134213430527485077 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\symbol-predicates-v2.js134213430553217640 0
+138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.with.js134213430485267858 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.promise.resolve.js134213430487938577 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\do-not-track.js134213223996695320 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\typed-array\last-index-of.js134213430527959516 0
@@ -3425,6 +3386,9 @@
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\to-well-formed.js134213430560139114 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\math\cbrt.js134213430476188994 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\trim-right.js134213430561223288 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\set-prototype-of.js134213430544418965 0
+137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\map-upsert.js134213430529189184 0
+135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\trim.js134213430561847213 0
 127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\optimizer-css134213223984868943 1
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\fround.js134213430508372825 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\at.js134213430474376813 0
@@ -3441,8 +3405,12 @@
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\virtual\iterator.js134213430525715238 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\diagnostic\lib\diagnostic.js134213223984129146 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\instance\includes.js134213430514965594 0
+133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\string\search.js134213430542799605 0
+146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\every.js134213430498084814 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\iterator\filter.js134213430500595821 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\index.js134213430519968249 0
+138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_instanceof.mjs134213223998468665 0
+143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\link.js134213430528333153 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\string\virtual\pad-start.js134213430536008671 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_write_only_error\package.json134213223994365738 0
 150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.string.from-code-point.js134213430488954438 0
@@ -3487,6 +3455,8 @@
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.symbol.metadata-key.js134213430497009239 0
 158D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\async-disposable-stack\constructor.js134213430479267187 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\regexp\to-string.js134213430559812671 0
+137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\reflect\apply.js134213430471297723 0
+143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\iterator\for-each.js134213430506140390 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\reflect\delete-property.js134213430481569205 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\reflect\set.js134213430545426738 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\number\constructor.js134213430478810874 0
@@ -3557,6 +3527,8 @@
 158D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\prefers-reduced-motion.js134213224000961543 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\math\cosh.js134213430480082415 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\math\f16round.js134213430498861469 0
+142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\date\to-iso-string.js134213430556096836 0
+146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.to-gmt-string.js134213430485529536 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\host-report-errors.js134213430513721342 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\typed-array\from.js134213430508202452 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\math\fround.js134213430508410354 0
@@ -3579,10 +3551,12 @@
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\safe-get-built-in.js134213430542348330 0
 150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\map\get-or-insert-computed.js134213430509968151 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\instance\includes.js134213430514572264 0
+142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\array\virtual\filter.js134213430500384303 0
+141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.unshift.js134213430485209227 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\json\index.js134213430519704169 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\json\stringify.js134213430551582981 0
-137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\iterator\find.js134213430503099691 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.to-primitive.js134213430485603851 0
+137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\iterator\find.js134213430503099691 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\package-manager\src\Pnpm.js134213223988920169 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\dist\unpacker\agents.js134213223987522187 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\iterator\flat-map.js134213430504427714 0
@@ -3639,8 +3613,8 @@
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\from.js134213430507696652 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\instance\starts-with.js134213430550297919 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\instance\to-reversed.js134213430558279033 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.last-index-of.js134213430484823144 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.to-json.js134213430485590454 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.last-index-of.js134213430484823144 0
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.object.get-own-property-descriptor.js134213430487209655 0
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@lezer\lr\LICENSE134213223983646227 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\instance\to-sorted.js134213430558665295 0
@@ -3702,10 +3676,10 @@
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\typed-array\values.js134213430564276011 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\optimizer-html\src134213223984436302 1
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\filter.js134213430500542659 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\includes.js134213430514273416 0
-154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.unscopables.flat-map.js134213430485193740 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_throw.js134213223997498675 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\find-last-index.js134213430501778806 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\includes.js134213430514273416 0
+154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.unscopables.flat-map.js134213430485193740 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\stable\array\flat.js134213430504793021 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-mediaqueries.js134213223995248837 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\map.js134213430529837065 0
@@ -3805,8 +3779,8 @@
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\commander\typings134213223987798867 1
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\efficient-64-bit-arithmetic.js134213430482728847 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\watcher\src\Debounce.hh134213223988992863 0
-149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\flat-map.js134213430504024260 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\virtual\substr.js134213430552317737 0
+149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\flat-map.js134213430504024260 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\date\get-year.js134213430511375779 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\extractors.js134213430498746128 0
 150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\virtual\match-all.js134213430530294863 0
@@ -3820,8 +3794,8 @@
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\global-this.js134213430511781353 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\index.js134213430519286830 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\iterator-chunking-v2.js134213430524840808 0
-153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\iterator-helpers-stage-3-2.js134213430525048278 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.data-view.js134213430485408310 0
+153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\proposals\iterator-helpers-stage-3-2.js134213430525048278 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\perform.js134213430536604925 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\index.js134213430516543201 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\number\parse-int.js134213430536322127 0
@@ -3913,24 +3887,16 @@
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.to-sorted.js134213430485139595 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\ansi-styles\package.json134213223984261642 0
 150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.unscopables.flat.js134213430485209227 0
-142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\array\virtual\filter.js134213430500384303 0
-141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.unshift.js134213430485209227 0
-138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.array.with.js134213430485267858 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\web-serial.js134213224003526654 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\trunc.js134213430561893285 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\weak-set134213430517301822 1
 156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.async-iterator.async-dispose.js134213430485333640 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.string.is-well-formed.js134213430496749050 0
-149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.data-view.constructor.js134213430485348795 0
-149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.data-view.set-float16.js134213430485423289 0
-141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.get-year.js134213430485457447 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.now.js134213430485482187 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\set\index.js134213430518997777 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\src\core-worker.js134213223987522187 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\array\join.js134213430526194386 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.set-year.js134213430485512747 0
-142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\date\to-iso-string.js134213430556096836 0
-146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.to-gmt-string.js134213430485529536 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\error-overlay\src\utils\stack-frame.js134213223988803162 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\wasm-bulk-memory.js134213224003297182 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.date.to-iso-string.js134213430485565016 0
@@ -3938,9 +3904,6 @@
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\an-object-or-undefined.js134213430470622650 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\reflect134213430559052738 1
 156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.disposable-stack.constructor.js134213430485618961 0
-127D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\rust\index.js134213223985343389 0
-143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\reflect\define-property.js134213430480880177 0
-139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.error.cause.js134213430485668905 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\src\public\Config.js134213223990622131 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\instance\values.js134213430564119539 0
 179D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-react-refresh-wrap\lib\ReactRefreshWrapTransformer.js134213223985343389 0
@@ -4017,6 +3980,7 @@
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\function\is-constructor.js134213430521325071 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\input-pattern.js134213223998690679 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.math.sum-precise.js134213430486667360 0
+148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\indexed.js134213430520259067 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.math.trunc.js134213430486726943 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\available-typed-arrays\CHANGELOG.md134214237059069231 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\es.number.constructor.js134213430486747485 0
@@ -4433,6 +4397,8 @@
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\set-timeout.js134213430544839031 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\instance\group-to-map.js134213430512630791 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.set.delete-all.js134213430496054572 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\input-color.js134213223998571593 0
+146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.set.difference.js134213430496072073 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_dispose\package.json134213223991153347 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\regions\ME.js134213223999938738 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.set.difference.v2.js134213430496072073 0
@@ -4466,6 +4432,7 @@
 150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.string.code-points.js134213430496643545 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\to-string-tag-support.js134213430558988640 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.string.at.js134213430496608171 0
+154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\async-dispose.js134213430472870539 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.string.cooked.js134213430496696988 0
 163D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_ts_rewrite_relative_import_extension.js134213223997648710 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\modules\esnext.string.match-all.js134213430496761292 0
@@ -4569,6 +4536,7 @@
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\regexp\match.js134213430530694604 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\a-number.js134213430469645065 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\a-possible-prototype.js134213430469689476 0
+157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\as-indexed-pairs.js134213430472380227 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\a-set.js134213430469717863 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\a-weak-key.js134213430469742350 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\internals\collection-strong.js134213430477480521 0
@@ -5087,6 +5055,7 @@
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\math\cbrt.js134213430476148813 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\virtual\pad-start.js134213430535956930 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\virtual\repeat.js134213430540607847 0
+142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\virtual\small.js134213430546916658 0
 156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_apply_descriptor_update.js134213223996469128 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\virtual\substr.js134213430552399781 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\string\virtual\sup.js134213430552827220 0
@@ -5213,6 +5182,7 @@
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\regexp\replace.js134213430541244947 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\map\merge.js134213430531526985 0
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\map\reduce.js134213430539618261 0
+160D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-disposable-stack\constructor.js134213430478901581 0
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\map\some.js134213430547754655 0
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\last-index-of.js134213430527615116 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\json\stringify.js134213430551541088 0
@@ -5225,8 +5195,11 @@
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\concat.js134213430478154528 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\find-index.js134213430501034145 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\dispose.js134213430482182178 0
+129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\call-bound\CHANGELOG.md134214237059069231 0
+136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\every.js134213430498275815 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\find.js134213430502944729 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\range.js134213430537983919 0
+135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\some.js134213430547704180 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\iterator\take.js134213430553618718 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\to-well-formed.js134213430559956454 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\calc.js134213223992564849 0
@@ -5260,7 +5233,7 @@
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\svg-html.js134213224002408374 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\instance\pad-end.js134213430535390920 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\instance\pad-start.js134213430535915473 0
-116D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\icons.21bad73c.svg134214902860856428 0
+116D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\icons.21bad73c.svg134217491000798214 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\instance\reduce-right.js134213430538734565 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\full\instance\reverse.js134213430542163812 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\set-timeout.js134213430544784429 0
@@ -5404,6 +5377,8 @@
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\error134213430559617924 1
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\join.js134213430526291363 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\get-iterator-method.js134213430509290445 0
+159D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-hanging-punctuation.js134213223994869734 0
+138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\get-iterator.js134213430509520746 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\global-this.js134213430511711927 0
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\index.js134213430517724679 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\is-iterable.js134213430522395135 0
@@ -5443,6 +5418,7 @@
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\weak-map\upsert.js134213430563621273 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\url-search-params\index.js134213430518152569 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\url\index.js134213430518175312 0
+154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-disposable-stack\index.js134213430517417143 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\url\parse.js134213430536464395 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_defaults\package.json134213223991027174 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\typed-array\at.js134213430473982124 0
@@ -5507,6 +5483,7 @@
 155D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\virtual\to-well-formed.js134213430559956454 0
 148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_await_async_generator.js134213223996382580 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\symbol\unscopables.js134213430563155856 0
+139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\anchor.js134213430470841256 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\at.js134213430473911457 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\keys.js134213430527124721 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\string\big.js134213430474742900 0
@@ -5637,10 +5614,12 @@
 155D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-descendant-gtgt.js134213223994236406 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array\virtual\concat.js134213430478000951 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\math\signbit.js134213430545739774 0
+153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\data-view\set-uint8-clamped.js134213430544968987 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_initializer_define_property.js134213223997137336 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\math\sinh.js134213430545847273 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\math\tanh.js134213430553715525 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\math\umulh.js134213430562620402 0
+137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\map\emplace.js134213430482735215 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\map\find-key.js134213430501308335 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\map\upsert.js134213430563569245 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\contenteditable.js134213223993366432 0
@@ -5724,29 +5703,14 @@
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\string\match.js134213430530644254 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\date\to-iso-string.js134213430556164089 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\date\to-primitive.js134213430557548552 0
-153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\data-view\set-uint8-clamped.js134213430544968987 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\bigint\range.js134213430537838897 0
-157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\as-indexed-pairs.js134213430472380227 0
-154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\async-dispose.js134213430472870539 0
-145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\drop.js134213430482608244 0
-133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\string\search.js134213430542799605 0
-146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\every.js134213430498084814 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\filter.js134213430500195299 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\find.js134213430502692045 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\to-reversed.js134213430557940545 0
-145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\from.js134213430507854962 0
-148D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\indexed.js134213430520259067 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\wasm-tail-calls.js134213224003415270 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\map.js134213430529590392 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\reduce.js134213430539301780 0
-145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\some.js134213430547414591 0
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\take.js134213430553531206 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-iterator\to-array.js134213430554294458 0
-160D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-disposable-stack\constructor.js134213430478901581 0
-154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\async-disposable-stack\index.js134213430517417143 0
-130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\string\raw.js134213430538213993 0
-150D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array-buffer\constructor.js134213430478871338 0
-147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array-buffer\detached.js134213430481933230 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_non_iterable_spread.mjs134213223998571593 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array-buffer\index.js134213430517352970 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\features\array-buffer\is-view.js134213430523630093 0
@@ -6235,6 +6199,8 @@
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\utils\src\svgo.js134213223991223696 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\push.js134213430537270094 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\reduce.js134213430539075459 0
+156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-react-refresh-wrap\src\helpers134213223986005081 1
+141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\reverse.js134213430541908080 0
 138D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\sort.js134213430548218943 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-js134213223985818178 1
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\es\array\virtual\to-reversed.js134213430558006746 0
@@ -6303,6 +6269,7 @@
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-babel\lib134213223988224197 1
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\int16-array.js134213430520405845 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\int8-array.js134213430520629720 0
+144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\iterator.js134213430525385735 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\join.js134213430526216848 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\keys.js134213430527011231 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\typed-array\methods.js134213430531839589 0
@@ -6378,6 +6345,8 @@
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\code-point-at.js134213430476913041 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\index.js134213430516305260 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\italics.js134213430524370095 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\number\virtual\to-fixed.js134213430555140156 0
+147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\iterator.js134213430525309495 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\link.js134213430528170118 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_construct\package.json134213223990762192 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\string\virtual\pad-end.js134213430535200339 0
@@ -6451,6 +6420,7 @@
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\regions\ES.js134213223997137336 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\is.js134213430524213344 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\lookup-getter.js134213430528731460 0
+144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\lookup-setter.js134213430528864669 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\prevent-extensions.js134213430536642216 0
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\core-js\actual\object\proto.js134213430537072222 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-cascade-scope.js134213223993925051 0
@@ -6951,6 +6921,7 @@
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-masks.js134213223995128072 0
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\packager-js\lib\DevPackager.js134213223985598446 0
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-media-interaction.js134213223995180350 0
+154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-module-scripts.js134213223995295118 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-motion-paths.js134213223995295118 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\src\_object_without_properties.mjs134213223998641736 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\css-nesting.js134213223995366615 0
@@ -7089,6 +7060,7 @@
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\link-rel-prerender.js134213223999545846 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\loading-lazy-attr.js134213223999572137 0
 154D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\loading-lazy-media.js134213223999582249 0
+142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\mathml.js134213223999762526 0
 167D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\mdn-css-backdrop-pseudo-element.js134213223999870907 0
 173D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate-override.js134213223999880829 0
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\LICENSE134213223988114802 0
@@ -7147,9 +7119,9 @@
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\lib\requests\ValidationRequest.js134213223995010582 0
 135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\feature-flags\LICENSE134213223983696197 0
 156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\spellcheck-attribute.js134213224002263216 0
-108D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\index.html134214902859134518 0
+108D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\index.html134217491000552651 0
 142D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\stream.js134213224002343193 0
-155D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.4a59a05f.js.map134214902869742357 0
+155D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.4a59a05f.js.map134217491001003685 0
 159D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\stricttransportsecurity.js134213224002353231 0
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\subresource-integrity.js134213224002378346 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\caniuse-lite\data\features\svg-css.js134213224002408374 0
@@ -7281,7 +7253,7 @@
 139D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_apply_decs_2203_r134213223984701740 1
 136D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\lib\loadDotEnv.js134213223992669349 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_apply_decs_2311134213223985293328 1
-152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.f7626f62.css134214902860117969 0
+152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.f7626f62.css134217491000552651 0
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\package-manager\src\Npm.js134213223988856539 0
 141D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_array_like_to_array134213223985703007 1
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_assert_this_initialized134213223987149404 1
@@ -7356,6 +7328,7 @@
 145D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-babel\lib\config.js134213223986314302 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_ts_generator\package.json134213223993874076 0
 146D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_ts_decorate\package.json134213223993803202 0
+164D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json134213223993541246 0
 149D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js134213223984868943 0
 151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_set_prototype_of\package.json134213223993402073 0
 162D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\_\_possible_constructor_return\package.json134213223993341362 0
@@ -7463,6 +7436,7 @@
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_call_super.js134213223996402660 0
 153D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_apply_descriptor_set.js134213223996469128 0
 143D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_call_check.js134213223996469128 0
+170D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_check_private_static_field_descriptor.js134213223996520204 0
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_extract_field_descriptor.js134213223996520204 0
 147D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\helpers\esm\_class_name_tdz_error.js134213223996546380 0
 152D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-js\src\esmodule-helpers.js134213223984536099 0
@@ -7571,6 +7545,8 @@
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\compressor-raw\src134213223984454910 1
 126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\core\index.d.ts134213223985703007 0
 128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\core\Visitor.d.ts134213223984077244 0
+131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\optimizer-swc\lib134213223984027128 1
+126D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@swc\core\Visitor.js134213223984723814 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\bundler-default134213223985498470 1
 123D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\codeframe134213223989263547 1
 157D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\error-overlay\src\effects\unhandledError.js134213223989273636 0
@@ -7596,11 +7572,10 @@
 130D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-json134213223984765032 1
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-posthtml134213223985438435 1
 144D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\transformer-react-refresh-wrap134213223986314302 1
-128D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\types-internal134213223987829526 1
 131D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\watcher-win32-x64134213223984578608 1
 121D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers134213223990469735 1
 132D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\index.d.ts134213223990469735 0
-118D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\favicon.8b2f57bf.png134214902860510318 0
+118D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\favicon.8b2f57bf.png134217491000653914 0
 125D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib134213223990308452 1
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\lib\RequestTracker.js134213223993874076 0
 129D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\LICENSE134213223983656171 0
@@ -7635,6 +7610,7 @@
 140D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\core-worker.js134213223987400379 0
 171D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\core\test\fixtures\library-custom-scopehoist\package.json134213223995520929 0
 137D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\cpuCount.js134213223987707317 0
+135D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\Handle.js134213223988224197 0
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\index.js134213223988358558 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\threads134213223989782981 1
 134D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\@parcel\workers\lib\types.js134213223989892020 0
@@ -8121,7 +8097,7 @@
 121D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\.bin\semver.ps1134213224004307907 0
 133D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\node_modules\.bin\update-browserslist-db134213224004307907 0
 118D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\favicon.38ab3f7a.png134214295382030045 0
-151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.4a59a05f.js134214902869602280 0
+151D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.4a59a05f.js134217491000976380 0
 156D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\Forkify App Building a Modern Application.873d9c7e.css.map134214295384941150 0
-116D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\icons.0809ef97.svg134214902860207334 0
+116D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\icons.0809ef97.svg134217491000603010 0
 115D:\Web Work\2026\Metalogics\Jonas JavaScript Udemy\Forkify App Building a Modern Application\dist\logo.0240107d.png134214295384266535 0

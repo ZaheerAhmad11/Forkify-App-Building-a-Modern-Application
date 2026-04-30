@@ -2,15 +2,29 @@ import icons from 'url:../../img/icons.svg';
 
 export default class View {
   _data;
-  
+
   render(data) {
-    if (!data || (Array.isArray(data) && data.length === 0)) return this.renderError(); 
+    if (!data || (Array.isArray(data) && data.length === 0))
+      return this.renderError();
 
     this._data = data;
     const markup = this._generateMarkup();
     this._clear();
     this._parenElement.insertAdjacentHTML('afterbegin', markup);
     console.log(this._data);
+  }
+
+  update(data) {
+    if (!data || (Array.isArray(data) && data.length === 0))
+      return this.renderError();
+
+    this._data = data;
+    const newMarkup = this._generateMarkup();
+
+    const newDOM = document.createRange().createContextualFragment(newMarkup);
+    
+    const newElements = newDOM.querySelectorAll('*');
+    console.log(newElements);
   }
 
   _clear() {

@@ -41,7 +41,6 @@ export const loadSearchResults = async function (query) {
   try {
     state.search.query = query;
     const data = await getJSON(`${API_URL}?search=${query}`);
-    console.log(data);
 
     state.search.results = data.data.recipes.map(rec => {
       return {
@@ -76,12 +75,18 @@ export const updateServings = function (newServings) {
   state.recipe.servings = newServings;
 };
 
+const persistBookmarks = function () {
+  localStorage.setItem('bookmarks', JSON.stringify(state.bookmarks));
+};
+
 export const addBookmark = function (recipe) {
   //Add BookMark
   state.bookmarks.push(recipe);
 
   //Mark Current Recipe as bookmarked
   if (recipe.id === state.recipe.id) state.recipe.bookmarked = true;
+
+  persistBookmarks();
 };
 
 export const deleteBookmark = function (id) {
@@ -91,4 +96,35 @@ export const deleteBookmark = function (id) {
 
   //Mark Current Recipe as NOT bookmarked
   if (id === state.recipe.id) state.recipe.bookmarked = false;
+};
+
+const init = function () {
+  const storage = localStorage.getItem('bookmarks');
+  if (storage) state.bookmarks = JSON.parse(storage);
+};
+
+init();
+
+const clearBookmarks = function () {
+  localStorage.clear('bookmarks');
+};
+// clearBookmarks();
+
+export const uploadRecipe = async function (newRecipe) {
+  try{
+  const ingredients = Object.entries(newRecipe)
+    .filter(entry => entry[0].startsWith('ingredient') && entry[1] !== '')
+    .map(ing => {
+      const ingArr = ing[1].replaceAll(' ', '').split(',');
+      if (ingArr.length !== 3)
+        throw new Error(
+          'Wrong ingrediant format! Please use the correct format :)',
+        );
+      const [quantity, unit, description] = ingArr;
+      return { quantity: quantity ? +quantity : null, unit, description };
+    });
+  console.log(ingredients);
+  } catch (err) {
+    throw err;
+  }
 };

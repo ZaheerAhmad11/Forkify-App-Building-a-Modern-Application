@@ -119,6 +119,51 @@ const controlAddRecipe = async function (newRecipe) {
   }
 };
 
+//Add New Buttons
+const renderCategoryButtons = function () {
+  const parent = document.querySelector('.search-results');
+
+  const markup = `
+  <div class="category-js" 
+       style="padding:10px; display:grid; grid-template-columns: repeat(2, 1fr); gap:10px;">
+    
+    <button class="btn category-btn"  style="width:100%; display:flex; justify-content:center; align-items:center;"data-query="pizza">Pizza</button>
+    <button class="btn category-btn"  style="width:100%; display:flex; justify-content:center; align-items:center;"data-query="pasta">Pasta</button>
+    <button class="btn category-btn"  style="width:100%; display:flex; justify-content:center; align-items:center;"data-query="burger">Burger</button>
+    <button class="btn category-btn"  style="width:100%; display:flex; justify-content:center; align-items:center;"data-query="bbq">BBQ</button>
+    
+  </div>
+`;
+
+  parent.insertAdjacentHTML('afterbegin', markup);
+};
+
+const addCategoryHandler = function () {
+  const parent = document.querySelector('.search-results');
+
+  parent.addEventListener('click', async function (e) {
+    const btn = e.target.closest('.category-btn');
+    if (!btn) return;
+
+    const query = btn.dataset.query;
+
+    try {
+      resultsView.renderSpinner();
+
+      await model.loadSearchResults(query);
+
+      resultsView.render(model.getSearchResultsPage());
+      paginationView.render(model.state.search);
+
+      // optional: input field me bhi value show ho
+      document.querySelector('.search__field').value = query;
+    } catch (err) {
+      console.log(err);
+    }
+  });
+};
+
+//Add New Buttons----
 const init = function () {
   bookmarksView.addHandlerRender(controlBookmarks);
   recipeView.addHandlerRender(controlRecipes);
@@ -127,5 +172,8 @@ const init = function () {
   searchView.addHandlerSearch(controlSearchResults);
   paginationView.addHandlerClick(controlPagination);
   addRecipeView.addHandlerUpload(controlAddRecipe);
+  // 👇 NEW
+  renderCategoryButtons();
+  addCategoryHandler();
 };
 init();

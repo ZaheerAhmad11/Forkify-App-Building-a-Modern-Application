@@ -2,37 +2,20 @@
   "name": "forkify",
   "version": "1.0.0",
   "description": "Recipe application",
-  "source": "src/js/controller.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html"
+    "build": "parcel build index.html --dist-dir ./dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ZaheerAhmad11/Forkify-App-Building-a-Modern-Application.git"
-  },
-  "author": "",
+  "author": "Rao Zaheer",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ZaheerAhmad11/Forkify-App-Building-a-Modern-Application/issues"
-  },
-  "homepage": "https://github.com/ZaheerAhmad11/Forkify-App-Building-a-Modern-Application#readme",
-  "dependencies": {
-    "core-js": "^3.49.0",
-    "regenerator-runtime": "^0.14.1"
-  },
   "devDependencies": {
-    "@babel/core": "^7.29.0",
-    "@babel/preset-env": "^7.29.2",
-    "@parcel/transformer-sass": "^2.16.4",
-    "parcel": "^2.16.4",
-    "process": "^0.11.10",
-    "stream-browserify": "^3.0.0",
-    "util": "^0.12.5"
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.26.10"
   },
-  "browserslist": [
-    "last 2 versions",
-    "> 0.5%",
-    "not dead"
-  ]
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.7"
+  }
 }
